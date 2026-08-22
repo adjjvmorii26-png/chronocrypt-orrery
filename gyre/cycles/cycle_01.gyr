@@ -1,0 +1,6 @@
+# Gyre Cycle 01 — Base Period
+cycle_id: 01
+period: 24
+amplitude: 0.78
+phase_offset: 0.00
+notes: "Primary rotation. Stable under still cantor."

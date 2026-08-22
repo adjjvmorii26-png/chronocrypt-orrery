@@ -1,0 +1,10 @@
+# Meridian Stream Alpha — Primary Linear Flow
+stream_id: alpha
+velocity: 0.82
+phase: 0.00
+events:
+  0: origin_pulse
+  14: first_gyre_sync
+  29: fracture_buffered
+  47: archive_seal
+preferred_cantor: still

@@ -1,0 +1,10 @@
+# Meridian Stream Beta — Narrative Overlay
+stream_id: beta
+velocity: 0.71
+phase: 0.33
+events:
+  0: narrative_seed
+  18: turn_alignment
+  36: cyclic_echo
+  55: suture_attempt
+preferred_cantor: turn

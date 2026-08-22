@@ -1,0 +1,10 @@
+# Meridian Stream Gamma — Divergent / Exploratory
+stream_id: gamma
+velocity: 0.58
+phase: 0.67
+events:
+  0: break_injection
+  22: high_entropy_pulse
+  41: collapse_near
+  63: fade_dampen
+preferred_cantor: break

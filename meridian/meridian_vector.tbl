@@ -1,0 +1,6 @@
+# Meridian Vector Lookup
+# vector | state        | recommended action
+0.40     | slow         | accelerate alpha
+0.60     | balanced     | maintain
+0.75     | fast         | dampen gamma
+0.90     | runaway      | break + fade

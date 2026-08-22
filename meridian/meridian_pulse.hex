@@ -1,0 +1,9 @@
+# Meridian Pulse Protocol
+# 0C = version
+# MP = meridian pulse
+# SS = stream (A0=alpha, B1=beta, G2=gamma)
+# VV = velocity 00-FF
+
+0CMP A0 D1
+0CMP B1 B5
+0CMP G2 94

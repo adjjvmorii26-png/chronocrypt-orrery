@@ -1,0 +1,6 @@
+# Gyre Period Lookup
+# period | amplitude range | cantor preference
+24       | 0.60 – 0.85     | still
+36       | 0.70 – 0.95     | break
+48       | 0.55 – 0.80     | turn
+72       | 0.40 – 0.70     | fade
