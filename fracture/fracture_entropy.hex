@@ -1,0 +1,9 @@
+# Fracture Entropy Protocol
+# 0D = version
+# FE = fracture entropy
+# EE = entropy 00-FF
+# SP = suture potential 00-FF
+
+0DFE 4F E0
+0DFE 78 9E
+0DFE AD 69

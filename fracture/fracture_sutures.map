@@ -1,0 +1,7 @@
+# Fracture Suture Map
+# shard     | linked_to          | strength
+0001        | stream_alpha       | 0.88
+0002        | cycle_03           | 0.62
+0003        | stream_gamma       | 0.41
+0001        | cantor_still       | 0.85
+0003        | cantor_fade        | 0.70

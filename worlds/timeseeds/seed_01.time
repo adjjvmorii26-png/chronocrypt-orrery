@@ -1,0 +1,9 @@
+# Time Seed 01 — Still Horizon
+{
+  "id": "seed_01",
+  "name": "Still Horizon",
+  "entropy": 0.11,
+  "initial_resonances": { "still": 0.91, "turn": 0.84, "break": 0.48, "fade": 0.35 },
+  "preferred_mode": "linear",
+  "description": "Calm linear basin. Ideal for first meridian seals."
+}

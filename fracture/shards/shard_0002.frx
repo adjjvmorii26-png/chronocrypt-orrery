@@ -1,0 +1,9 @@
+# Fracture Shard 0002
+# Type: Spiral Tear
+# Formed: cycle 38
+
+signature: B2E84F0A
+entropy: 0.47
+content: "Gyre cycle_03 amplitude exceeded. Partial phase loss."
+links: [cycle_03, cantor_turn]
+suture_potential: 0.62

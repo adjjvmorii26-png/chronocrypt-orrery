@@ -1,0 +1,9 @@
+# Time Seed 02 — Turning Sphere
+{
+  "id": "seed_02",
+  "name": "Turning Sphere",
+  "entropy": 0.32,
+  "initial_resonances": { "still": 0.72, "turn": 0.88, "break": 0.55, "fade": 0.49 },
+  "preferred_mode": "cyclic",
+  "description": "Active gyre environment. Tests multi-period coherence."
+}

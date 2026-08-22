@@ -1,0 +1,9 @@
+# Time Seed 03 — Fracture Edge
+{
+  "id": "seed_03",
+  "name": "Fracture Edge",
+  "entropy": 0.53,
+  "initial_resonances": { "still": 0.51, "turn": 0.58, "break": 0.79, "fade": 0.74 },
+  "preferred_mode": "eroded",
+  "description": "High-entropy margin. Break and fade cantors dominant."
+}
