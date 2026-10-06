@@ -1,0 +1,7 @@
+{
+  "capsule": "chronocrypt-orrery-continuity-v1",
+  "boot": "orrery_boot.sh",
+  "entrypoint": "meridian/meridian_flow.js",
+  "domains": ["meridian","gyre","fracture","archive","choir","worlds"],
+  "invariants": ["boot_exists","entrypoint_exists","all_domains_present","no_empty_domain"]
+}
